@@ -1,2 +1,2 @@
 # attendance
-Attendance App for Students
+Attendance App for Faculty and Students
